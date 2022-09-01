@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Any thing
 - 📫 How to reach me: ...[sanjanauditha2012@gmail.com]
 - 😄 Pronouns: ...He/ Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I am half Finished 
 -->
