@@ -1,16 +1,10 @@
-### Hi Here I am working on !  👋
+# Code for the _Linux Programming by Example: The Fundamentals_
 
-<!--
-**sanjanauditha2012/sanjanauditha2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Written by  Arnold Robbins, Copyright (C) 2004 by Prentice Hall.
 
-Here are some ideas to get you started:
+The directories are as follows:
 
-- 🔭 I’m currently working on ...IT Engineering
-- 🌱 I’m currently learning ...AWS
-- 👯 I’m looking to collaborate on ...IAM
-- 🤔 I’m looking for help with ...Identity Access Manager
-- 💬 Ask me about ...Any thing
-- 📫 How to reach me: ...[sanjanauditha2012@gmail.com]
-- 😄 Pronouns: ...He/ Him
-- ⚡ Fun fact: ... I am half Finished 
--->
+ * `book` Files for example programs written from scratch for the book
+ * `gnu`  Files from GNU Project programs.
+ * `v6`	  Files from V6 Unix
+ * `v7`	  Files from V7 Unix
